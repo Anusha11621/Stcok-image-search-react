@@ -24,3 +24,13 @@
   padding: 20px;
   width: 500px;
 }
+
+@media(max-width:800px){
+  .search{
+    width: 80%;
+  }
+  #search{
+    
+    width: 80%;
+  }
+}
